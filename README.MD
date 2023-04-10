@@ -14,4 +14,4 @@
 |--|--|
 | NIM | **21104410089** |
 | Nama Lengkap | **Rizka Magvira** |
-| Kelas | TI-4B |
+| Kelas | **TI-4B** |
