@@ -1,12 +1,3 @@
-# SISTEM OPERASI & PRAKTIKUM SISTEM OPERASI
-
-| Nama Mata Kuliah  | SISTEM OPERASI |
-|--|--|
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
-| Tahun Ajaran | Genap 2022/2023 |
-| Kelas | REGULER |
-| Email | mohammadfariedrahmat@unisbablitar.ac.id |
-| Institusi | fti.unisbablitar.ac.id |
 
 ## Data Diri
 
@@ -18,13 +9,13 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
 # SISTEM OPERASI
-### Fitur VArchiver
+### Fitur Cek Waktu Dan Kalender
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah ***ls -l*** |
-| 2 | Hapus File/Folder | Menghapus file dari sebuah direktori dengan perintah ***rm -i*** dan menghapus sebuah folder dengan perintah ***rm -r***|
-| 3 | Copy File | Menyalin file dengan perintah ***cp*** |
+| 1 | Tampilkan Tanggal dan Waktu Hari Ini | Mengetahui Tanggal dan Waktu Pada Saat Ini |
+| 2 | Tampilkan Kalender Saat Ini | Mengetahui Kalender pada Saat Ini |
+| 3 | Keluar Dari Menuku | Keluar dari Menuku dan Mengakhiri Program|
 
 # SCREENSHOT PROGRAM
 
