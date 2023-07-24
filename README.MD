@@ -7,7 +7,7 @@
 | Kelas | TI-4B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
-# SISTEM OPERASI & PRAKTIKUM 
+# SISTEM OPERASI & PRAKTIKUM SISTEM OPERASI
 ### Fitur Cek Waktu Dan Kalender
 |  |  |  |
 |--|--|--|
